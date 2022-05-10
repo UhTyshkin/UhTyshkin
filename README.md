@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UhTyshkin (Alexander, 39, Moscow)
 - 👀 I’m interested in website development (PHP, laravel, JS...)
-- 🌱 I’m currently learning this...
 - 📫 How to reach me (by email)
 
 <!---
